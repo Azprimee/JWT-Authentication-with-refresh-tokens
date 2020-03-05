@@ -1,1 +1,1 @@
-# Simple JWT authentication with refreshing tokens
+# Simple JWT authentication with refresh token
